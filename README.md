@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Mirazo (A.K.A D3XTRO)</h1>
-<h3 align="center">I'm an Argentine Informatic Engineering student. Here you will find all my repositories from my career, and in the future (I hope Gabe Newell listens to you) my work repositories</h3>
+<h3 align="center">I'm an Argentine Informatic Engineering student. Here you will find all my repositories from my career, and in the future my work repositories</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3xtro12" alt="d3xtro12" /></a> </p>
 
